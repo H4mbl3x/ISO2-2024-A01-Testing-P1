@@ -1,0 +1,31 @@
+package jar;
+
+public enum EuropeanNationalities {
+	AUSTRIAN,
+    BELGIAN,
+    BULGARIAN,
+    CROATIAN,
+    CYPRIOT,
+    CZECH,
+    DANISH,
+    ESTONIAN,
+    FINNISH,
+    FRENCH,
+    GERMAN,
+    GREEK,
+    HUNGARIAN,
+    IRISH,
+    ITALIAN,
+    LATVIAN,
+    LITHUANIAN,
+    LUXEMBOURGISH,
+    MALTESE,
+    DUTCH,
+    POLISH,
+    PORTUGUESE,
+    ROMANIAN,
+    SLOVAK,
+    SLOVENIAN,
+    SPANISH,
+    SWEDISH;
+}
