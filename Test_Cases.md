@@ -25,9 +25,9 @@
 
 | **Test Case**          | **Input (Nationality)** | **Expected Result** |
 |------------------------|-------------------------|----------------------|
-| European nationality   | "British"              | `true`               |
+| European nationality   | "Austrian"              | `true`               |
 | Non-European nationality | "American"             | `false`              |
-| Case-insensitivity test | "british"              | `true`               |
+| Case-insensitivity test | "austrian"              | `true`               |
 
 ---
 
